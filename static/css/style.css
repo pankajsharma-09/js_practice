@@ -12,3 +12,8 @@
     flex-wrap: wrap;
     justify-content: space-around;
 }
+
+.flex-container-child img {
+    margin: 10px;
+    box-shadow: 0px 10px 50px rgba(0, 0, 0, 0.7);
+}
